@@ -56,7 +56,6 @@ hobbies: ["Cinema", "Badminton", "Cycling", "Comedy", "Developing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-[![Gopesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopesh-code)](https://github.com/gopesh-code/github-readme-stats)
-![Gopesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&layout=compact)](https://github.com/gopesh-code/github-readme-stats)
 
