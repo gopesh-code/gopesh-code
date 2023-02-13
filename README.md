@@ -9,7 +9,7 @@ interested_in: Software Development Engineer
 education:
   [
     "Self-Taught Developer and Designer"
-    "Bachelor's in Conputer Science and Engineering",
+    "Bachelor's in Computer Science and Engineering",
   ]
 current_University: Vellore Institute of Technology, Vellore
 fields_of_interests:
