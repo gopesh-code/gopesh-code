@@ -5,7 +5,7 @@
 ```yaml
 name: Gopesh Kumar Pathak
 located_in: Vellore, India
-interested_in: Software Development Engineer
+interested_in: Software Development
 education:
   [
     "Self-Taught Developer and Designer"
@@ -31,8 +31,8 @@ technical_background:
   ]
   
 currently_learning: ["React Native, Go, and C#"]
-2022 Goals: ["Create 20+ Projects and learn at least about newer Technologies."]
-hobbies: ["Cinema", "Badminton", "Cycling", "Comedy", "Developing"]
+2023 Goals: ["Create innovative projects and learn at least about newer Technologies."]
+hobbies: ["Movies", "Badminton", "Cycling", "Comedy", "Developing"]
 ```
 
 <h2> 🔭 &nbsp;Some Tools I Have Used and Learned</h2>
