@@ -5,14 +5,12 @@
 [![GitHub gopesh-code](https://img.shields.io/github/followers/gopesh-code?label=follow&style=social)](https://github.com/gopesh-code)
 ![GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)
 
-I develop software, mentor tech enthusiasts and love meeting new people!
-
 <hr/>
-<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code-github&show_icons=true&theme=radical&count_private=true'/>
+<img align="left" width="30%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
+<img align="center" width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
 <hr>
- <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code" />
+ <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code" />
  <hr>
 
 ```yaml
