@@ -7,10 +7,10 @@
 [![Linkedin: Gopesh Kumar Pathak](https://img.shields.io/badge/-Gopesh%20Kumar%20Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopeshkumarpathak/)](https://www.linkedin.com/in/gopeshkumarpathak/)
 
 <hr/>
-<img align="left" width="33%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
+<img align="left" width="30%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
-<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code" />
+<img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code" />
  <hr>
 
 ```yaml
