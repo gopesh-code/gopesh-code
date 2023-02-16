@@ -61,6 +61,7 @@ currently_learning: ["React Native, Go, and C#"]
 2023 Goals: ["Create innovative projects and learn at least about newer Technologies."]
 hobbies: ["Movies", "Badminton", "Cycling", "Comedy", "Developing"]
 ```
+<hr>
 
 <h2> 🔭 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
