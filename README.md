@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-[![GitHub gopesh-code](https://img.shields.io/github/followers/gopesh-code?label=follow&style=social)](https://github.com/gopesh-code)
-![GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)
+<!--[![GitHub gopesh-code](https://img.shields.io/github/followers/gopesh-code?label=follow&style=social)](https://github.com/gopesh-code)
+![GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)-->
 [![Linkedin: Gopesh Kumar Pathak](https://img.shields.io/badge/-Gopesh%20Kumar%20Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopeshkumarpathak/)](https://www.linkedin.com/in/gopeshkumarpathak/)
 
 <!--
