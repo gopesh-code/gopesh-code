@@ -3,14 +3,15 @@
 ## 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 [![GitHub gopesh-code](https://img.shields.io/github/followers/gopesh-code?label=follow&style=social)](https://github.com/gopesh-code)
-![GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)
+[!GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)
+[![Linkedin: Akash Goyal](https://img.shields.io/badge/-Gopesh%20Kumar%20Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopeshkumarpathak/)](https://www.linkedin.com/in/gopeshkumarpathak/)
 
 <hr/>
-<img align="left" width="30%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
+<img align="left" width="33%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
+<img align="center" width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
 <hr>
- <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code" />
+ <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code" />
  <hr>
 
 ```yaml
