@@ -6,13 +6,23 @@
 ![GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)
 [![Linkedin: Gopesh Kumar Pathak](https://img.shields.io/badge/-Gopesh%20Kumar%20Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopeshkumarpathak/)](https://www.linkedin.com/in/gopeshkumarpathak/)
 
-<hr/>
+<!--
+<div align="center" style="text-align:center">
+    <a href="mailto:gopeshkumarpathak@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/gopeshkumarpathak/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Gopesh's LinkedIn">
+    </a>
+ </div>
+-->
+
+<hr>
 <img align="left" width="33%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
-</p>
 <img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
-</p>
-<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
- <hr>
+<img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code"/>
+<hr>
 
 ```yaml
 name: Gopesh Kumar Pathak
