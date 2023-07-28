@@ -59,7 +59,7 @@ technical_background:
   ]
   
 currently_learning: ["React Native, Go, and C#"]
-2023 Goals: ["Create innovative projects and learn at least about newer Technologies."]
+2023 Goals: ["Create innovative projects and learn at least about upcoming technologies."]
 hobbies: ["Movies", "Badminton", "Cycling", "Comedy", "Developing"]
 ```
 <hr>
@@ -67,6 +67,7 @@ hobbies: ["Movies", "Badminton", "Cycling", "Comedy", "Developing"]
 <h2> 🔭 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="python" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
