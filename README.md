@@ -51,8 +51,9 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Software Development Intern - Hindalco Industries Limited, India"
     "Intern - Aditya Birla Group, Thailand",
-    "Intern - Engineer's Cradle",
+    "Product Development Intern - Engineer's Cradle",
     "Intern - Punar Rehab Solutions",
     "Intern - Ontribe",
   ]
