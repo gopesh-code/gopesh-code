@@ -24,7 +24,7 @@
 -->
 
 <hr>
-<img align="left" width="33%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>
+<!--<img align="left" width="33%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>-->
 <img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
 <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code"/>
 <hr>
