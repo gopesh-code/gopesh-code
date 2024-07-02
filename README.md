@@ -6,18 +6,16 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories).
 
-#### Fun Facts:
+#### Facts:
 - I don't like bad design.
-- 
+- I'd love to make something different with nyone who is interested.
 - I love using Mac (borrowed) after switching from Linux & Windows.
-## 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+  
+## 👨🏻‍💻 &nbsp;
 
 <!--[![GitHub gopesh-code](https://img.shields.io/github/followers/gopesh-code?label=follow&style=social)](https://github.com/gopesh-code)
 ![GitHub stars](https://img.shields.io/github/stars/gopesh-code?style=social)-->
 [![Linkedin: Gopesh Kumar Pathak](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopeshkumarpathak/)](https://www.linkedin.com/in/gopeshkumarpathak/)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gopunuts/)](https://twitter.com/gopunuts/)
-<a href="https://www.instagram.com/dontgopesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919719951595&text=gopesh)](https://api.whatsapp.com/send?phone=+919719951595&text=gopesh)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gopeshkumarpathak@gmail.com)](mailto:gopeshkumarpathak@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gopesh-code/)](https://github.com/gopesh-code/)
 
