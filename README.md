@@ -8,7 +8,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 #### Facts:
 - I don't like bad design.
-- I'd love to make something different with nyone who is interested.
+- I'd love to make something different with anyone who is interested.
 - I love using Mac (borrowed) after switching from Linux & Windows.
   
 ## 👨🏻‍💻 &nbsp;
