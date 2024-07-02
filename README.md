@@ -34,12 +34,12 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 -->
 
 ```yaml
-currently_learning: ["React Native, Go, and C#"]
+currently_learning: ["React Native, Go"]
 Latest Goals: ["Create innovative projects and try out as many new technologies as possible."]
 ```
 <hr>
 
-<h2> 🔭 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🔭 &nbsp;Tools & Languages I have used</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="python" width="45" height="45" />
