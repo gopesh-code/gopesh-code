@@ -7,9 +7,9 @@ I like combining my technical knowledge with design to make beautiful and effici
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories).
 
 #### Fun Facts:
-- I don't like coffee.
-- Demon Slayer is my favorite anime.
-- I love using Mac after switching from Linux.
+- I don't like bad design.
+- 
+- I love using Mac (borrowed) after switching from Linux & Windows.
 ## 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 <!--[![GitHub gopesh-code](https://img.shields.io/github/followers/gopesh-code?label=follow&style=social)](https://github.com/gopesh-code)
@@ -33,44 +33,9 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
  </div>
 -->
 
-<hr>
-<!--<img align="left" width="33%" src='https://github-readme-stats.vercel.app/api?username=gopesh-code&show_icons=true&theme=radical&count_private=true'/>-->
-<img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=gopesh-code&count_private=true&theme=radical" alt="gopesh-code"/>
-<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopesh-code&count_private=true&theme=radical&layout=compact" alt="gopesh-code"/>
-<hr>
-
 ```yaml
-name: Gopesh Kumar Pathak
-located_in: Vellore, India
-interested_in: Software Development
-education:
-  [
-    "Self-Taught Developer and Designer"
-    "Bachelor's in Computer Science and Engineering",
-  ]
-current_University: Vellore Institute of Technology, Vellore
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-    "Artificial Intelligence",
-  ]
-technical_background:
-  [
-    "Software Development Intern - Hindalco Industries Limited, India"
-    "Intern - Aditya Birla Group, Thailand",
-    "Product Development Intern - Engineer's Cradle",
-    "Intern - Punar Rehab Solutions",
-    "Intern - Ontribe",
-  ]
-  
 currently_learning: ["React Native, Go, and C#"]
-2023 Goals: ["Create innovative projects and learn at least about upcoming technologies."]
-hobbies: ["Movies", "Badminton", "Cycling", "Comedy", "Developing"]
+Latest Goals: ["Create innovative projects and try out as many new technologies as possible."]
 ```
 <hr>
 
